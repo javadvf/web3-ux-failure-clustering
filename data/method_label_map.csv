@@ -1,0 +1,9 @@
+method_called,method_label
+"atomicMatch_(address[14],uint256[18],uint8[8],bytes,bytes,bytes,bytes,bytes,bytes,uint8[2],bytes32[5])",M1
+"swap(address,(address,address,address,address,uint256,uint256,uint256,bytes),bytes)",M2
+"swapTokensForExactTokens(uint256,uint256,address[],address,uint256)",M3
+"swapExactTokensForTokens(uint256,uint256,address[],address,uint256)",M4
+"unoswap(address,uint256,uint256,bytes32[])",M5
+"mintForAirDrop(address[],uint256[])",M6
+"join_tg_invmru_haha_9d69f3f(bool,address)",M7
+"cancelOrder_(address[7],uint256[9],uint8,uint8,uint8,uint8,bytes,bytes,bytes,uint8,bytes32,bytes32)",M8
